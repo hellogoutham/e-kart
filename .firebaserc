@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "test-e7fd3"
+  },
+  "targets": {
+    "test-e7fd3": {
+      "hosting": {
+        "luttappi": [
+          "luttappi"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
